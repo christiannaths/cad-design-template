@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "bonsai-mcp": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["--directory", "./blender/Bonsai_mcp", "run", "tools.py"]
+    }
+  }
+}

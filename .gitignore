@@ -1,0 +1,13 @@
+# Blender
+*.blend
+*.blend1
+
+# Cloned MCP server dependencies
+blender/Bonsai_mcp/
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
